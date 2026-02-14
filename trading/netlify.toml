@@ -1,0 +1,6 @@
+[build]
+  command = "echo 'No build required for runner; site lives elsewhere'"
+  publish = "site"
+
+[dev]
+  command = "echo 'Dev server not configured'"
